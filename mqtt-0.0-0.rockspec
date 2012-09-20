@@ -28,7 +28,6 @@ build = {
   type = "builtin",
 
   modules = {
-    lapp           = "lua/lapp.lua",
     mqtt_library   = "lua/mqtt_library.lua",
     mqtt_publish   = "lua/example/mqtt_publish.lua",
     mqtt_subscribe = "lua/example/mqtt_subscribe.lua",
